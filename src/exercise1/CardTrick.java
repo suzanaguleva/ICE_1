@@ -11,7 +11,7 @@ import java.util.Scanner;
  * @author Suzana Guleva Feb 8th, 2023 
  */
 public class CardTrick {
-    //Suzana is done (Step 8)
+   
     public static void main(String[] args) {
         
         Card[] hand = new Card[7];
@@ -75,6 +75,7 @@ public class CardTrick {
      * @author Suzana Guleva Feb 8th, 2023
      */
     private static void printInfo() {
+        //Suzana is done (Step 8)
     
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
