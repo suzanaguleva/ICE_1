@@ -11,7 +11,7 @@ import java.util.Scanner;
  * @author Suzana Guleva Feb 8th, 2023 
  */
 public class CardTrick {
-    
+    //Suzana is done (Step 8)
     public static void main(String[] args) {
         
         Card[] hand = new Card[7];
