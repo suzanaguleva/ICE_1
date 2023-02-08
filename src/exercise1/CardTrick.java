@@ -8,7 +8,7 @@ import java.util.Scanner;
  * To be used as starting code in Exercise
  *
  * @author dancye
- * @author Paul Bonenfant Jan 25, 2022 
+ * @author Suzana Guleva Feb 8th, 2023 
  */
 public class CardTrick {
     
@@ -72,14 +72,14 @@ public class CardTrick {
     /**
      * A simple method to print out personal information. Follow the instructions to 
      * replace this information with your own.
-     * @author Paul Bonenfant Jan 2022
+     * @author Suzana Guleva Feb 8th, 2023
      */
     private static void printInfo() {
     
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
-        System.out.println("My name is Paul, but you can call me prof, Paul or sir");
+        System.out.println("My name is Suzana, but you can call me prof, Suzzie");
         System.out.println();
         
         System.out.println("My career ambitions:");
